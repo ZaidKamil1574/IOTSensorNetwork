@@ -14,10 +14,9 @@ The third algorithm used combines the learning and execution phases. It is calle
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/9c8a82f8-e8a0-4ebf-b3c6-2e52608802f3" />
 
 
-<img width="211" alt="image" src="https://github.com/user-attachments/assets/055eab50-b185-4e20-a165-e4b915efb22c" />
 
 
-
+<img width="852" alt="image" src="https://github.com/user-attachments/assets/8564d046-51b7-44d6-81c2-d51dc0d415eb" />
 
 
 ![Screenshot 2024-12-23 at 10 01 01 PM](https://github.com/user-attachments/assets/7a88b568-d0b3-41f2-90ba-76b6e591bf52)
