@@ -22,4 +22,4 @@ The third algorithm used combines the learning and execution phases. It is calle
 ![Screenshot 2024-12-23 at 10 01 01 PM](https://github.com/user-attachments/assets/7a88b568-d0b3-41f2-90ba-76b6e591bf52)
 
 
-<img width="852" alt="image" src="https://github.com/user-attachments/assets/fcdad6ab-d78b-4b77-949b-c58ca1948509" />
+
