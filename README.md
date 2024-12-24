@@ -10,3 +10,5 @@ The second method used, greedy_2, is similar to greedy_1 but selects nodes in a 
 
 MARL
 The third algorithm used combines the learning and execution phases. It is called MARL (Multi-Agent Reinforcement Learning). It updates the Q-values during the learning stage after learning the Q-values for various state-action pairings based on the rewards. The next node is chosen during the execution stage based on the Q-values and the budget, and this process continues until the target node is reached or there are no suitable nodes left to choose.
+
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/65729bf8-0c0a-48f0-9461-15215b7dd6de" />
